@@ -1,1 +1,1 @@
-<p>Basic Emacs Commands</p>
+<p>Basic Emacs Commands.</p>
