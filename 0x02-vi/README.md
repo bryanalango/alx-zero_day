@@ -1,0 +1,1 @@
+<p>Basic Shortcuts for Vim Editor</p>
